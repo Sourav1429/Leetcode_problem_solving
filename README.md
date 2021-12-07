@@ -19,3 +19,4 @@ Given the sorted rotated array nums of unique elements, return the minimum eleme
 You must write an algorithm that runs in O(log n) time.
 
 4) Search Insert Position.cpp: Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You must write an algorithm with O(log n) runtime complexity.
+5) Partition_Equal_Subset.cpp: Given a non-empty array nums containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
